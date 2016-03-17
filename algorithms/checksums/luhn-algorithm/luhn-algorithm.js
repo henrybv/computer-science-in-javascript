@@ -27,6 +27,7 @@
  * @param {String} identifier The identifier to validate.
  * @return {Boolean} True if the identifier is valid, false if not.
  */
+ 
 function isValidIdentifier(identifier) {
      
     var sum     = 0,
